@@ -1,28 +1,85 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/17zHDo_-uppL8dIpWLuZOR9HW44KDLJ1p/view?usp=sharing"/>
-</div>
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=User+Experience+Visionary+;Full+Stack+Web+Architect++Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://git.io/typing-svg)
-  
+  <video width="640" height="360" autoplay loop muted playsinline>
+    <source src="https://drive.google.com/uc?export=download&id=17zHDo_-uppL8dIpWLuZOR9HW44KDLJ1p" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=550&lines=Agentic+AI+Engineer;Full+Stack+Web+Developer;Founder+-+Aatfa+Siddiqui;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 🌐 About Workownix
+## 🌐 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Hi,  
+If you’re searching for a flexible and skilled website developer, AI engineer, or digital innovator, you’re in the right place.
 
-**Workownix** is a modern digital innovation brand focused on building high-performance web platforms, AI-powered systems, and scalable business solutions.
+I, **Aatfa Siddiqui**, provide two main services:
 
-- 🚀 Developing scalable full-stack web applications  
-- 🤖 Building AI-powered digital experiences  
-- 🎨 Designing user-centric UI/UX interfaces  
-- 🌍 Creating e-learning & business platforms  
-- 💡 Turning ideas into production-ready digital products  
+1️⃣ **Web Development & Problem-Solving Solutions** for businesses and clients  
+2️⃣ **Online & On-Site IT Skills & Practical Training** for students and beginners
 
-<br clear="right"/>
+---
+
+### 💻 1️⃣ Web Development & Problem-Solving Services
+
+I design and build **full-stack websites and AI-powered solutions**, delivering problem-solving digital experiences using modern technologies and intelligent systems.  
+
+Whether it’s a **corporate website, e-commerce platform, service-based site, or AI automation system**, I create fast, responsive, and user-friendly solutions that drive engagement and results.
+
+I can help fix or build solutions for:
+
+- Frontend & UI challenges  
+- Backend & full-stack functionality  
+- Performance & speed improvements  
+- Bugs, errors, and glitches  
+- Custom features & enhancements  
+
+I provide **efficient, reliable solutions** for all levels of complexity, across industries and technologies.
+
+**🔹 What I Can Build for You:**  
+✔ Business & Corporate Websites  
+✔ Fully Custom Websites  
+✔ Landing Pages & Problem-Solving Solutions  
+✔ E-Commerce Stores (WordPress / Custom)  
+✔ Frontend UI (Fast, Responsive, SEO-Ready)  
+✔ Full-Stack Applications & Authentication  
+✔ AI Chatbots & Automation Systems  
+✔ Admin Panels & Dashboards  
+✔ API Integration & Database Management  
+✔ Performance Optimization & Hosting Support  
+
+**🔹 Technologies I Use:**  
+**Frontend:** HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • Next.js  
+**Backend & AI:** Python • OpenAI • LangChain • Chatbots • APIs  
+**E-Commerce:** WordPress • WooCommerce  
+**Tools:** GitHub • Vercel • Streamlit  
+
+---
+
+### 🎓 2️⃣ IT Skills & Hands-On Training
+
+I also provide **IT skills training for students and beginners** who want practical, job-ready experience:
+
+✔ Online & On-Site Classes  
+✔ Project-Based Learning  
+✔ Web Development & Modern IT Skills  
+✔ Industry-Focused Guidance  
+✔ Real-World Development Exposure  
+
+This program helps learners gain confidence and hands-on experience in the IT industry.
+
+---
+
+### 🔹 Let’s Get Started
+
+Whether you’re a **business owner looking for reliable web & AI solutions**, or a **student aiming to learn in-demand IT skills**, I’m here to help.
+
+Place your order today and get a **fast, modern, and fully functional solution!**  
+
+🌐 Website: [https://workownix.com](https://workownix.com)
 
 ---
 
@@ -67,7 +124,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=workownix&theme=tokyo-night&hide_border=true&area=true&custom_title=Workownix%20Contribution%20Activity" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=workownix&theme=tokyo-night&hide_border=true&area=true&custom_title=Aatfa%20Siddiqui%20Contribution%20Activity" width="98%"/>
 </div>
 
 ---
