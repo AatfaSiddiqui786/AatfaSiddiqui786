@@ -1,3 +1,4 @@
+<!-- =================== TOP BANNER VIDEO =================== -->
 <div align="center">
   <video width="100%" height="360" autoplay loop muted playsinline>
     <source src="https://drive.google.com/uc?export=download&id=17zHDo_-uppL8dIpWLuZOR9HW44KDLJ1p" type="video/mp4">
@@ -5,9 +6,10 @@
   </video>
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px;">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=550&lines=Agentic+AI+Engineer;Full+Stack+Web+Developer;Founder+-+Aatfa+Siddiqui;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
 </div>
+
 ---
 
 ## 🌐 About Me
@@ -20,9 +22,7 @@ I, **Aatfa Siddiqui**, provide two main services:
 1️⃣ **Web Development & Problem-Solving Solutions** for businesses and clients  
 2️⃣ **Online & On-Site IT Skills & Practical Training** for students and beginners
 
----
-
-### 💻 1️⃣ Web Development & Problem-Solving Services
+### 💻 Web Development & Problem-Solving Services
 
 I design and build **full-stack websites and AI-powered solutions**, delivering problem-solving digital experiences using modern technologies and intelligent systems.  
 
@@ -35,8 +35,6 @@ I can help fix or build solutions for:
 - Performance & speed improvements  
 - Bugs, errors, and glitches  
 - Custom features & enhancements  
-
-I provide **efficient, reliable solutions** for all levels of complexity, across industries and technologies.
 
 **🔹 What I Can Build for You:**  
 ✔ Business & Corporate Websites  
@@ -56,9 +54,7 @@ I provide **efficient, reliable solutions** for all levels of complexity, across
 **E-Commerce:** WordPress • WooCommerce  
 **Tools:** GitHub • Vercel • Streamlit  
 
----
-
-### 🎓 2️⃣ IT Skills & Hands-On Training
+### 🎓 IT Skills & Hands-On Training
 
 I also provide **IT skills training for students and beginners** who want practical, job-ready experience:
 
@@ -129,3 +125,39 @@ Place your order today and get a **fast, modern, and fully functional solution!*
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Modern Business Website</h3>
+        <div align="center">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=workownix&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">AI Powered Web Platform</h3>
+        <div align="center">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=workownix&repo=YOUR-SECOND-REPO&theme=tokyonight&hide_border=true" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-AatfaSiddiqui-2A5298?style=for-the-badge)](https://workownix.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AatfaSiddiqui-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workownix)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3c72,100:2a5298"/>
+</div>
