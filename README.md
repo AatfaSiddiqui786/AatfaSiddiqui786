@@ -1,7 +1,7 @@
 <!-- =================== TOP BANNER VIDEO (Vercel Project) =================== -->
 <div align="center">
   <a href="https://banner-kohl-omega.vercel.app/" target="_blank">
-  
+    <img src="https://img.youtube.com/vi/neAoh6JxBdc/maxresdefault.jpg" alt="Aatfa Siddiqui Banner Video" width="100%">
   </a>
 </div>
 
