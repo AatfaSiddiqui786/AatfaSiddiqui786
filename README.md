@@ -5,9 +5,7 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=550&lines=Agentic+AI+Engineer;Full+Stack+Web+Developer;Founder+-+Aatfa+Siddiqui;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
-</div>
+
 
 ---
 
