@@ -1,75 +1,28 @@
-<!-- =================== TOP BANNER VIDEO (Vercel Project) =================== -->
 <div align="center">
-  <a href="https://banner-kohl-omega.vercel.app/" target="_blank">
-    <img src="https://img.youtube.com/vi/neAoh6JxBdc/maxresdefault.jpg" alt="Aatfa Siddiqui Banner Video" width="100%">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=F4F4F4&text=workownix&desc=Agentic%20AI%20Engineer%20•%20Full%20Stack%20web%20Developer%20&fontColor=134E8E&fontAlignY=37&descAlignY=50&section=header&animation=scaleIn&reversal=true&textBg=false"/>
+</div>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=User+Experience+Visionary+;Full+Stack+Web+Architect++Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://git.io/typing-svg)
+  
 </div>
 
----
-
-## 🌐 About Me
-
-Hi,  
-If you’re searching for a flexible and skilled website developer, AI engineer, or digital innovator, you’re in the right place.
-
-I, **Aatfa Siddiqui**, provide two main services:
-
-1️⃣ **Web Development & Problem-Solving Solutions** for businesses and clients  
-2️⃣ **Online & On-Site IT Skills & Practical Training** for students and beginners
-
-### 💻 Web Development & Problem-Solving Services
-
-I design and build **full-stack websites and AI-powered solutions**, delivering problem-solving digital experiences using modern technologies and intelligent systems.  
-
-Whether it’s a **corporate website, e-commerce platform, service-based site, or AI automation system**, I create fast, responsive, and user-friendly solutions that drive engagement and results.
-
-I can help fix or build solutions for:
-
-- Frontend & UI challenges  
-- Backend & full-stack functionality  
-- Performance & speed improvements  
-- Bugs, errors, and glitches  
-- Custom features & enhancements  
-
-**🔹 What I Can Build for You:**  
-✔ Business & Corporate Websites  
-✔ Fully Custom Websites  
-✔ Landing Pages & Problem-Solving Solutions  
-✔ E-Commerce Stores (WordPress / Custom)  
-✔ Frontend UI (Fast, Responsive, SEO-Ready)  
-✔ Full-Stack Applications & Authentication  
-✔ AI Chatbots & Automation Systems  
-✔ Admin Panels & Dashboards  
-✔ API Integration & Database Management  
-✔ Performance Optimization & Hosting Support  
-
-**🔹 Technologies I Use:**  
-**Frontend:** HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • Next.js  
-**Backend & AI:** Python • OpenAI • LangChain • Chatbots • APIs  
-**E-Commerce:** WordPress • WooCommerce  
-**Tools:** GitHub • Vercel • Streamlit  
-
-### 🎓 IT Skills & Hands-On Training
-
-I also provide **IT skills training for students and beginners** who want practical, job-ready experience:
-
-✔ Online & On-Site Classes  
-✔ Project-Based Learning  
-✔ Web Development & Modern IT Skills  
-✔ Industry-Focused Guidance  
-✔ Real-World Development Exposure  
-
-This program helps learners gain confidence and hands-on experience in the IT industry.
 
 ---
 
-### 🔹 Let’s Get Started
+## 🌐 About Workownix
 
-Whether you’re a **business owner looking for reliable web & AI solutions**, or a **student aiming to learn in-demand IT skills**, I’m here to help.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Place your order today and get a **fast, modern, and fully functional solution!**  
+**Workownix** is a modern digital innovation brand focused on building high-performance web platforms, AI-powered systems, and scalable business solutions.
 
-🌐 Website: [https://workownix.com](https://workownix.com)
+- 🚀 Developing scalable full-stack web applications  
+- 🤖 Building AI-powered digital experiences  
+- 🎨 Designing user-centric UI/UX interfaces  
+- 🌍 Creating e-learning & business platforms  
+- 💡 Turning ideas into production-ready digital products  
+
+<br clear="right"/>
 
 ---
 
@@ -114,7 +67,7 @@ Place your order today and get a **fast, modern, and fully functional solution!*
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=workownix&theme=tokyo-night&hide_border=true&area=true&custom_title=Aatfa%20Siddiqui%20Contribution%20Activity" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=workownix&theme=tokyo-night&hide_border=true&area=true&custom_title=Workownix%20Contribution%20Activity" width="98%"/>
 </div>
 
 ---
@@ -142,12 +95,12 @@ Place your order today and get a **fast, modern, and fully functional solution!*
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Workownix
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-AatfaSiddiqui-2A5298?style=for-the-badge)](https://workownix.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AatfaSiddiqui-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workownix)
+[![Website](https://img.shields.io/badge/Website-Workownix-2A5298?style=for-the-badge)](https://workownix.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Workownix-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workownix)
 
 </div>
 
@@ -156,3 +109,4 @@ Place your order today and get a **fast, modern, and fully functional solution!*
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3c72,100:2a5298"/>
 </div>
+
