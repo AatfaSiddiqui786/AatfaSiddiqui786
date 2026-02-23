@@ -1,67 +1,75 @@
-Hi,
-If you’re searching for a flexible and skilled website developer, you’re in the right place.
+<div align="center">
+  <img src="https://drive.google.com/file/d/17zHDo_-uppL8dIpWLuZOR9HW44KDLJ1p/view?usp=sharing"/>
+</div>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=User+Experience+Visionary+;Full+Stack+Web+Architect++Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://git.io/typing-svg)
+  
+</div>
 
-I, Aatfa Siddiqui, provide two main services:
 
-1️⃣ Web Development & Problem-Solving Solutions for businesses and clients
-2️⃣ Online & On-Site IT Skills & Practical Training for students and beginners
+---
 
-Here’s what I can do for you:
+## 🌐 About Workownix
 
-💻 1️⃣ Web Development & Problem-Solving Services
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I design and build full-stack websites and deliver problem-solving web solutions using modern design and advanced technology to produce tangible results.
+**Workownix** is a modern digital innovation brand focused on building high-performance web platforms, AI-powered systems, and scalable business solutions.
 
-Whether it’s a corporate website, an e-commerce platform, or a service-based site, I create fast, responsive, and intelligent websites that engage visitors and improve conversions.
+- 🚀 Developing scalable full-stack web applications  
+- 🤖 Building AI-powered digital experiences  
+- 🎨 Designing user-centric UI/UX interfaces  
+- 🌍 Creating e-learning & business platforms  
+- 💡 Turning ideas into production-ready digital products  
 
-I can help fix any web development issue, including:
+<br clear="right"/>
 
-Frontend & UI challenges
+---
 
-Backend & full-stack functionality
+## 🛠️ Tech Stack
 
-Performance & speed improvements
+<div align="center">
 
-Bugs, errors, and glitches
+### 💻 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Custom features & enhancements
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-I provide efficient and reliable solutions for all levels of complexity, across industries and technologies.
+### 🤖 AI & Innovation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-🔹 What I Can Build for You:
-✔ Business & Corporate Websites
-✔ Fully Custom Websites
-✔ Landing Pages & Problem-Solving Solutions
-✔ E-Commerce Stores (WordPress / Custom)
-✔ Frontend UI (Fast, Responsive, SEO-Ready)
-✔ Full-Stack Applications & Authentication
-✔ AI Chatbots & Automation
-✔ Admin Panels & Dashboards
-✔ API Integration & Database Management
-✔ Performance Optimization & Hosting Support
+</div>
 
-🔹 Technologies I Use:
-Frontend: HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • Next.js
-Backend & AI: Python • AI Tools • Chatbots • APIs
-E-Commerce: WordPress • WooCommerce
-Tools: GitHub • Vercel • Streamlit
+---
 
-🎓 2️⃣ IT Skills & Hands-On Training
+## 📊 GitHub Analytics
 
-I also provide IT skills training for students and beginners who want practical, job-ready experience.
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=workownix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=workownix&theme=tokyonight&hide_border=true" />
+</div>
 
-✔ Online & On-Site Classes
-✔ Project-Based Learning
-✔ Web Development & Modern IT Skills
-✔ Industry-Focused Guidance
-✔ Real-World Development Exposure
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workownix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-This program helps learners gain confidence and hands-on experience in the IT industry.
+---
 
-🔹 Let’s Get Started
+## 📈 Contribution Graph
 
-Whether you’re a business owner looking for reliable web solutions or a student aiming to learn in-demand IT skills, I’m here to help.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=workownix&theme=tokyo-night&hide_border=true&area=true&custom_title=Workownix%20Contribution%20Activity" width="98%"/>
+</div>
 
-Place your order today and get a fast, modern, and fully functional solution!
+---
 
-🌐 Website: https://workownix.com
+## 🚀 Featured Projects
