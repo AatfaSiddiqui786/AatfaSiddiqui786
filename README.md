@@ -1,11 +1,11 @@
 <div align="center">
-  <video width="640" height="360" autoplay loop muted playsinline>
+  <video width="100%" height="360" autoplay loop muted playsinline>
     <source src="https://drive.google.com/uc?export=download&id=17zHDo_-uppL8dIpWLuZOR9HW44KDLJ1p" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=550&lines=Agentic+AI+Engineer;Full+Stack+Web+Developer;Founder+-+Aatfa+Siddiqui;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
 </div>
 
