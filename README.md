@@ -70,9 +70,9 @@ DevOps & Deployment: Docker • GitHub Actions • Vercel
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/AatfaSiddiqui786/AatfaSiddiqui786/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake Animation
+![snake gif](https://github.com/Sobansaud/Sobansaud/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
