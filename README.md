@@ -30,7 +30,7 @@ Workownix — Design • Develop • Deliver Excellence
 
 ## 🧠 About Me
 
-I'm **Aatfa Siddiqui** — Founder of **Workownix**, AI Engineer & Full Stack Developer.
+I'm **Aatfa Siddiqui**  Founder of **Workownix**, AI Engineer & Full Stack Developer.
 
 I build intelligent, scalable & high-performance digital systems combining:
 
@@ -92,4 +92,4 @@ DevOps & Deployment: Docker • GitHub Actions • Vercel
 
 ---
 
-⭐️ *From Aatfa Siddiqui — Founder of Workownix*
+⭐️ *From Aatfa Siddiqui  Founder of Workownix*
