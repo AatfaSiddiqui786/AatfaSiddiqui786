@@ -56,17 +56,17 @@ DevOps & Deployment: Docker • GitHub Actions • Vercel
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AatfaSiddiqui786&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AatfaSiddiqui786&theme=radical" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AatfaSiddiqui786&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
